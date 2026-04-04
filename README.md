@@ -17,7 +17,7 @@ An MIS-focused analysis exploring the distribution of police service calls acros
 
 ## Results
 
-## Visual Analysis
+## Analysis by Service Area
 
 ### 1. Day vs. Night Call Volume (Service Area)
 ![Day vs Night Service Area](SATX_Area_Call_DayVsNight.png)
@@ -33,4 +33,22 @@ Detailed breakdown of Violent Crime vs. Property Crime hotspots.
 
 ### 3. Health & Fire Hazard Distribution
 ![Crime Comparison](SATX_Area_Call_HealthVsFire.png)
+Analysis of medical assistance calls versus environmental hazards.
+
+## Analysis by ZIP code
+
+### 1. Day vs. Night Call Volume (Service Area)
+![Day vs Night Service Area](SATX_ZIP_Call_DayVsNight.png)
+This comparison highlights the significant shift in resource demand, with peak volumes reaching 500k during daylight hours.
+
+---
+
+### 2. Crime Category Comparison
+![Day vs Night Service Area](SATX_ZIP_Call_ViolentVsProperty.png)
+Detailed breakdown of Violent Crime vs. Property Crime hotspots.
+
+---
+
+### 3. Health & Fire Hazard Distribution
+![Day vs Night Service Area](SATX_ZIP_Call_HealthVsFire.png)
 Analysis of medical assistance calls versus environmental hazards.
