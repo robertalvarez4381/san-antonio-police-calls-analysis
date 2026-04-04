@@ -32,5 +32,5 @@ Detailed breakdown of Violent Crime vs. Property Crime hotspots.
 ---
 
 ### 3. Health & Fire Hazard Distribution
-![Crime Comparison](SATX_Area_Call_HealthVsFiret.png)
+![Crime Comparison](SATX_Area_Call_HealthVsFire.png)
 Analysis of medical assistance calls versus environmental hazards.
