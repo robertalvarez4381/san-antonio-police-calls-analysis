@@ -38,17 +38,17 @@ Analysis of medical assistance calls versus environmental hazards.
 ## Analysis by ZIP code
 
 ### 1. Day vs. Night Call Volume (Service Area)
-![Day vs Night Service Area](SATX_ZIP_Call_DayVsNight.png)
+![Day vs Night Service Area](SATX_Zip_Call_DayVsNight.png)
 This comparison highlights the significant shift in resource demand, with peak volumes reaching 500k during daylight hours.
 
 ---
 
 ### 2. Crime Category Comparison
-![Crime Comparison](SATX_ZIP_Call_ViolentVsProperty.png)
+![Crime Comparison](SATX_Zip_Call_ViolentVsProperty.png)
 Detailed breakdown of Violent Crime vs. Property Crime hotspots.
 
 ---
 
 ### 3. Health & Fire Hazard Distribution
-![Crime Comparison](SATX_ZIP_Call_HealthVsFire.png)
+![Crime Comparison](SATX_Zip_Call_HealthVsFire.png)
 Analysis of medical assistance calls versus environmental hazards.
