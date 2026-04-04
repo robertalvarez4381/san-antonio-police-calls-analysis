@@ -22,7 +22,7 @@ An MIS-focused analysis exploring the distribution of police service calls acros
 ### 1. Day vs. Night Call Volume (Service Area)
 This comparison highlights the significant shift in resource demand, with peak volumes reaching 500k during daylight hours.
 
-![Day vs Night Service Area](maps/Day_Night_Comparison.png)
+![Day vs Night Service Area](SATX_Area_Call_DayVsNight.png)
 
 ---
 
