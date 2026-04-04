@@ -44,11 +44,11 @@ This comparison highlights the significant shift in resource demand, with peak v
 ---
 
 ### 2. Crime Category Comparison
-![Day vs Night Service Area](SATX_ZIP_Call_ViolentVsProperty.png)
+![Crime Comparison](SATX_ZIP_Call_ViolentVsProperty.png)
 Detailed breakdown of Violent Crime vs. Property Crime hotspots.
 
 ---
 
 ### 3. Health & Fire Hazard Distribution
-![Day vs Night Service Area](SATX_ZIP_Call_HealthVsFire.png)
+![Crime Comparison](SATX_ZIP_Call_HealthVsFire.png)
 Analysis of medical assistance calls versus environmental hazards.
