@@ -21,7 +21,7 @@ An MIS-focused analysis exploring the distribution of police service calls acros
 
 ### 1. Day vs. Night Call Volume (Service Area)
 ![Day vs Night Service Area](SATX_Area_Call_DayVsNight.png)
-**Analytical Insight:** The temporal analysis reveals a massive surge in service demand during daylight hours. Specifically, the urban core and western service areas reach **Peak Volume (420K - 500K calls)** during the day. In contrast, night-shift activity shows a significant reduction in total volume, with the highest-activity zones peaking at only **340K - 420K calls**. This **20-25%** drop in peak volume suggest a high dependency on daytime traffic safety and public order incidents, providing critical data for staggered shift-scheduling and resource deployment.
+**Analytical Insight:** The temporal analysis reveals a massive surge in service demand during daylight hours. Specifically, the urban core and western service areas reach **Peak Volume (420K - 500K calls)** during the day. In contrast, night-shift activity shows a significant reduction in total volume, with the highest-activity zones peaking at only **340K - 420K calls**. This **20-25%** drop in peak volume suggests a high dependency on daytime traffic safety and public order incidents, providing critical data for staggered shift-scheduling and resource deployment.
 
 ---
 
@@ -37,7 +37,7 @@ An MIS-focused analysis exploring the distribution of police service calls acros
 
 ## Analysis by ZIP code
 
-### 1. Day vs. Night Call Volume (Service Area)
+### 1. Day vs. Night Call Volume (Zip Code)
 ![Day vs Night Service Area](SATX_Zip_Call_DayVsNight.png)
 **Analytical Insight:** Transitioning from Service Areas to Zip Codes reveals that daytime volume is heavily concentrated in the **78207 (West Side)** and **78201 (Central)** corridors, both exceeding **110K calls**. Interestingly, while night-time volume drops city-wide, these specific zip codes maintain a disproportionately high "High" or "Very High" status, suggesting that these areas require constant, 24/7 patrol saturation regardless of the temporal shift.
 
