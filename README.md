@@ -39,16 +39,16 @@ An MIS-focused analysis exploring the distribution of police service calls acros
 
 ### 1. Day vs. Night Call Volume (Service Area)
 ![Day vs Night Service Area](SATX_Zip_Call_DayVsNight.png)
-This comparison highlights the significant shift in resource demand, with peak volumes reaching 500k during daylight hours.
+**Analytical Insight:** Transitioning from Service Areas to Zip Codes reveals that daytime volume is heavily concentrated in the **78207 (West Side)** and **78201 (Central)** corridors, both exceeding **110K calls**. Interestingly, while night-time volume drops city-wide, these specific zip codes maintain a disproportionately high "High" or "Very High" status, suggesting that these areas require constant, 24/7 patrol saturation regardless of the temporal shift.
 
 ---
 
 ### 2. Crime Category Comparison
 ![Crime Comparison](SATX_Zip_Call_ViolentVsProperty.png)
-Detailed breakdown of Violent Crime vs. Property Crime hotspots.
+**Analytical Insight:** While Property Crime is widely distributed across the northern and western suburbs, Violent Crime is tightly clustered in the **central and eastern zip codes**. The data shows a significant "volume gap" in the **78216 (North Central)** area, where Property Crime calls are nearly 3x more frequent than Violent Crime calls, likely due to the high density of retail and commercial assets in that sector.
 
 ---
 
 ### 3. Health & Fire Hazard Distribution
 ![Crime Comparison](SATX_Zip_Call_HealthVsFire.png)
-Analysis of medical assistance calls versus environmental hazards.
+**Analytical Insight:** Despite Health calls outnumbering Fire calls by a 28:1 margin, both categories share a primary hotspot in the **78207** and **78228** zip codes. These areas are uniquely categorized as **'Peak Volume'** for both incident types, indicating a high demand for integrated emergency medical and fire response infrastructure in the city’s western and southern residential cores.
